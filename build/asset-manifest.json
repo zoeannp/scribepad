@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.68ee8df3.js",
-    "static/js/453.f5009855.chunk.js": "/static/js/453.f5009855.chunk.js",
-    "static/media/copy.png": "/static/media/copy.79ee8b18951252499583.png",
-    "static/media/uploadfile.png": "/static/media/uploadfile.d10c76ae2278be42649d.png",
-    "static/media/sendicon.png": "/static/media/sendicon.96478936524153110503.png",
-    "static/media/logo.png": "/static/media/logo.f4d4b7ca8e58ce99844e.png",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.68ee8df3.js.map": "/static/js/main.68ee8df3.js.map",
-    "453.f5009855.chunk.js.map": "/static/js/453.f5009855.chunk.js.map"
+    "main.css": "/scribepad/static/css/main.f855e6bc.css",
+    "main.js": "/scribepad/static/js/main.1faadb59.js",
+    "static/js/453.f5009855.chunk.js": "/scribepad/static/js/453.f5009855.chunk.js",
+    "static/media/copy.png": "/scribepad/static/media/copy.79ee8b18951252499583.png",
+    "static/media/uploadfile.png": "/scribepad/static/media/uploadfile.d10c76ae2278be42649d.png",
+    "static/media/sendicon.png": "/scribepad/static/media/sendicon.96478936524153110503.png",
+    "static/media/logo.png": "/scribepad/static/media/logo.f4d4b7ca8e58ce99844e.png",
+    "index.html": "/scribepad/index.html",
+    "main.f855e6bc.css.map": "/scribepad/static/css/main.f855e6bc.css.map",
+    "main.1faadb59.js.map": "/scribepad/static/js/main.1faadb59.js.map",
+    "453.f5009855.chunk.js.map": "/scribepad/static/js/453.f5009855.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.68ee8df3.js"
+    "static/js/main.1faadb59.js"
   ]
 }
